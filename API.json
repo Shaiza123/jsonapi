@@ -1,0 +1,22 @@
+{
+    "Tips":[
+      {
+        "id": 1,
+        "Description1": "Put it into a tigtly closed container.",
+        "Description2": "Keep the container closed when it is not in use." , 
+        "Description3": "Wash your hands after disposing." 
+      },
+      {
+        "id": 2,
+        "Description1": "Do place sharps in a proper structure proof conatiner.",
+        "Description2": " Do not pick broken glass by hand. ",
+        "Description3": "Keep medical waste out of reach of kids."   
+      },
+      {
+        "id": 3,
+        "Description1": " Donot overfill your health waste containers.",
+        "Description2": "Dispose health waste when the container overfill." 
+      }
+      
+    ]
+  }
