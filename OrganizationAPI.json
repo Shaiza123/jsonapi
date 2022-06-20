@@ -1,0 +1,44 @@
+{
+    "Organizations":[
+      {
+        "id": 1,
+        "Name1": "Rawalpindi Waste Management Company",
+        "Contact1": "(051) 9291116",
+        "Email1":"RWM@gmail.com",
+        "Opening Hours1": "Open 24hours",
+        "Working days1": "Monday-Sunday",
+        "Location1": "d 135، Satellite Town, Block A Satellite Town, Rawalpindi, Punjab",
+        "image1":"https://www.google.com/maps/uv?pb=!1s0x38df952633ad37f3%3A0x3a673440d97aef7d!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPBwJsxUOfUQkw6Zuur6ft_PZ7C_oHXFiPBJzrs%3Dw325-h218-n-k-no!5swaste%20management%20centers%20in%20rawalpindi%20open%20hours%20-%20Google%20Search!15sCgIgAQ&imagekey=!1e10!2sAF1QipPBwJsxUOfUQkw6Zuur6ft_PZ7C_oHXFiPBJzrs&hl=en#" 
+      },
+      {
+        "id": 2,
+        "Name2": "National Cleaner Production Center",
+        "Contact2": "(051) 5450424",
+        "Email2":"NCPC@gmail.com",
+        "Opening Hours2": "8am-5pm",
+        "Working days2": "Monday-Friday",
+        "Location2": "H34H+GMC, Morgah, Rawalpindi, Punjab",
+        "image2":"https://www.google.com/maps/uv?pb=!1s0x38df9328e00970ff%3A0x4e19458ee55f1c37!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMPmU76xlxqImmb6zuc0n4BF4aTl4nQnNyOmoHK%3Dw266-h200-k-no!5snational%20cleaner%20production%20centre%20-%20Google%20Search!15sCgIgAQ&imagekey=!1e10!2sAF1QipOYjeRtg47mpyAPS6logCww8Jxkd_In-7ZYe2Ej&hl=en&sa=X&ved=2ahUKEwiXx8Xin7z4AhWF3YUKHcxkAfMQoip6BAhJEAM#" 
+      },
+      {
+        "id": 3,
+        "Name3": "Suleman and Co.",
+        "Contact3": "0321 4924933",
+        "Email3":"Suleman@gmail.com",
+        "Opening Hours3": "9am-5pm",
+        "Working days3": "Monday-Sunday",
+        "Location3": "Plot No, Office No. 07 First Floor, 3212 Hospital Rd, Rawalpindi, 46000",
+        "image3":"https://www.google.com/maps/uv?pb=!1s0x38df9520fefa229f%3A0x50f35ca00af10d2e!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOCPQxJBIGhU4rSIeBiOhGwF34-3RJYJzmr_OAN%3Dw107-h108-n-k-no!5swaste%20management%20centers%20in%20rawalpindi%20open%20hours%20-%20Google%20Search!15sCgIgAQ&imagekey=!1e10!2sAF1QipOCPQxJBIGhU4rSIeBiOhGwF34-3RJYJzmr_OAN&hl=en#" 
+      },
+      {
+        "id": 4,
+        "Name4": "Holy Family Hospital ",
+        "Contact4": "(051) 9290321",
+        "Email4":"HFH@gmail.com",
+        "Opening Hours4": "Open 24hours",
+        "Working days4": "Monday-Sunday",
+        "Location4": "Holy Family Rd, Block F Block E Satellite Town, Rawalpindi, Punjab",
+        "image4":"https://www.google.com/maps/uv?pb=!1s0x38df951c0d751a17%3A0xb24bb276b8e8ce23!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMU2e7oSvisBQD9qwe2lcYDMMo5-RFLjfur7HRF%3Dw150-h200-k-no!5sholy%20family%20hospital%20-%20Google%20Search!15sCgIgAQ&imagekey=!1e10!2sAF1QipMU2e7oSvisBQD9qwe2lcYDMMo5-RFLjfur7HRF&hl=en&sa=X&ved=2ahUKEwjcruKSrLz4AhW4hv0HHSJ9Bo8Qoip6BAhfEAM#" 
+      }
+    ]
+  }
