@@ -1,0 +1,26 @@
+{
+    "Tips":[
+      {
+        "id": 1,
+        "Description1": "Put it into a tigtly closed container.",
+        "Description2": "Keep the container closed when it is not in use." , 
+        "Description3": "Wash your hands after disposing." ,
+        "image1":"https://www.flaticon.com/free-icon/nuclear_1176346"
+      },
+      {
+        "id": 2,
+        "Description1": "Do place sharps in a proper structure proof conatiner.",
+        "Description2": " Do not pick broken glass by hand. ",
+        "Description3": "Keep medical waste out of reach of kids."  , 
+        "image2":"https://www.flaticon.com/premium-icon/garbage_3289522"
+      },
+      {
+        "id": 3,
+        "Description1": " Donot overfill your health waste containers.",
+        "Description2": "Dispose health waste when the container overfill.",
+        "Description3":  "Ensure safe sharps waste removal and management to prevent health consequences",
+        "image3":"https://www.flaticon.com/free-icon/garbage_3240960" 
+      }
+      
+    ]
+  }
